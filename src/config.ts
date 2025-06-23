@@ -1,0 +1,1 @@
+export const API_URL = import.meta.env.VITE_BACKEND_URL || "https://lnvew987t4.execute-api.us-east-1.amazonaws.com/dev";
